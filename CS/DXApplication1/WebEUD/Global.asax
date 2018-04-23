@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="WebEUD.Global_asax" Language="C#" %>
