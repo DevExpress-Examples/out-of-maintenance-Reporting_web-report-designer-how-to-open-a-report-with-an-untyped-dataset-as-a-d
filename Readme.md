@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/DXApplication1/WebEUD/Default.aspx) (VB: [Default.aspx.vb](./VB/DXApplication1/WebEUD/Default.aspx.vb))
+* [Default.aspx.cs](./CS/DXApplication1/WebEUD/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/DXApplication1/WebEUD/Default.aspx.vb))
+* [Global.asax](./CS/DXApplication1/WebEUD/Global.asax) (VB: [Global.asax.vb](./VB/DXApplication1/WebEUD/Global.asax.vb))
+* [Global.asax.cs](./CS/DXApplication1/WebEUD/Global.asax.cs) (VB: [Global.asax.vb](./VB/DXApplication1/WebEUD/Global.asax.vb))
+* [CustomUntypedDataSetSerializer.cs](./CS/DXApplication1/WebEUD/Helpers/CustomUntypedDataSetSerializer.cs) (VB: [CustomUntypedDataSetSerializer.vb](./VB/DXApplication1/WebEUD/Helpers/CustomUntypedDataSetSerializer.vb))
+* [DataHelpers.cs](./CS/DXApplication1/WebEUD/Helpers/DataHelpers.cs) (VB: [DataHelpers.vb](./VB/DXApplication1/WebEUD/Helpers/DataHelpers.vb))
+* [DataSourceInitializer.cs](./CS/DXApplication1/WebEUD/Helpers/DataSourceInitializer.cs) (VB: [DataSourceInitializer.vb](./VB/DXApplication1/WebEUD/Helpers/DataSourceInitializer.vb))
+<!-- default file list end -->
 # Web Report Designer - How to open a report with an untyped DataSet as a data source 
 
 
