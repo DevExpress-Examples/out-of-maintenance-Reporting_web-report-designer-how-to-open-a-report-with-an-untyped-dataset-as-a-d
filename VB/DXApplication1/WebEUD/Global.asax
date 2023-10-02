@@ -1,1 +1,0 @@
-﻿<%@ Application Codebehind="Global.asax.vb" Inherits="WebEUD.Global_asax" Language="vb" %>
